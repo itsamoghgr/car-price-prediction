@@ -4,9 +4,9 @@
 
 #### Car Price Prediction Template
 
-![Template Screenshot](template_ss)
+![Template Screenshot](template_ss.png)
 
 
 #### Car Price Prediction Screen Shot
 
-![Prediction Screenshot](prediction_ss)
+![Prediction Screenshot](prediction_ss.png)
